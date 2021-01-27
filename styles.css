@@ -1,9 +1,10 @@
-#login-area{
-	padding:100px;
+body {
+    padding: 100px;
 }
-.submit-area{
-	margin-top:50px;
-	padding:50px;
-	border-radius:10px;
-	box-shadow: 5px 5px 5px grey ;
+
+.submit-area {
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
 }
